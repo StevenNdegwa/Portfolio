@@ -1,10 +1,10 @@
-# Atom
+# Portfolio
 #### Modern Text Editor, 13.04.2018
-#### By **Immanuel, Derrick**
+#### By **Gathambiri, Steven**
 ![GitHub Logo](images/5.jpg)
 
 ## Description
-This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have.
+This is a portfolio of all the projects i have done as software developer. These include Moringa1, Identproject and My-first-website. The links to the projects are on the page.
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
