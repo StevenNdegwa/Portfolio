@@ -39,6 +39,8 @@ h4{
   border-color: blue;
   margin-left: 100px;
   width: 150px;
+  font-size: x-large;
+
 
 }
 h5{
@@ -62,5 +64,4 @@ a:visited {
 }
 a:hover{
   color: blue;
-
 }
