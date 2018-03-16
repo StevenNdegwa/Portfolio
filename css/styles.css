@@ -10,17 +10,19 @@ body{
 }
 h1{
   font-size: 80px;
-}
-p{
-  font-style: italics
+  text-align: center;
 }
 h2{
-  font-size: 50px
+  font-size: 50px;
+  text-align: center;
 }
 .bio{
-  color: red;
   float:left;
+  text-align: center;
 }
-img{
-  float: right
+.projects{
+  text-align: center;
+}
+li{
+  font-style: italic;
 }
