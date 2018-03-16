@@ -2,13 +2,22 @@ h2{
   color: blue;
 }
 body{
-  font-style: italic;
   background-image: url(../images/custom-software-development.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   text-align: center;
-   color: blue
-   
+   color:
 }
+h1{
+  font-size: 80px;
+}
+p{
+  font-style: italics
+}
+h2{
+  font-size: 50px
+}
+.bio{
+  color: blue
