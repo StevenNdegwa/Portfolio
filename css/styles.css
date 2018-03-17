@@ -2,27 +2,18 @@ h2{
   color: blue;
 }
 body{
-  background-image: url(../images/custom-software-development.jpg);
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+
 }
 h1{
-  font-size: 80px;
+  font-size: xx-large;
   text-align: center;
 }
 h2{
-  font-size: 50px;
+  font-size: xx-large;
   text-align: center;
 }
 .bio{
   float:left;
   text-align: center;
-}
-.projects{
-  text-align: center;
-}
-li{
-  font-style: italic;
+  font-size: x-large;
 }
