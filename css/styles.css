@@ -2,12 +2,13 @@ body{
 
 }
 h1{
-  font-size: xx-large;
+  font-size: 200px;
   text-align: center;
   color:tan;
+  border: 20px solid blue;
 }
 h2{
-  font-size: xx-large;
+  font-size: 150px;
   text-align: center;
   color: tan;
 }
@@ -37,8 +38,8 @@ h4{
   border-width: 10px;
   border-color: blue;
   margin-left: 100px;
-  margin-right: 100px;
-  padding: 5px;
+  width: 150px;
+
 }
 h5{
   color:tan;
@@ -49,4 +50,7 @@ h5{
   margin-right: 100px;
   padding: 5px;
 
+}
+.contact{
+  color: black;
 }
