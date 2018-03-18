@@ -1,19 +1,52 @@
-h2{
-  color: blue;
-}
 body{
 
 }
 h1{
   font-size: xx-large;
   text-align: center;
+  color:tan;
 }
 h2{
   font-size: xx-large;
   text-align: center;
+  color: tan;
 }
 .bio{
   float:left;
   text-align: center;
   font-size: x-large;
+}
+.projects{
+  font-size: x-large;
+  text-align: center;
+}
+h3{
+  color:tan;
+  border-style: solid;
+  border-width: 10px;
+  border-color: blue;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 5px;
+  width: 150px;
+  float: left;
+}
+h4{
+  color: tan;
+  border-style: solid;
+  border-width: 10px;
+  border-color: blue;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 5px;
+}
+h5{
+  color:tan;
+  border-style: solid;
+  border-width: 10px;
+  border-color: blue;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 5px;
+
 }
