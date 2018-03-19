@@ -6,7 +6,7 @@
 ## Description
 This is a portfolio of all the projects i have done as software developer. These include stevepage, my-first-website and giraffes. The links to the projects are on the page.
 ## Setup/Installation Requirements
-Run this page on any browser
+Type the https name into your browser and the page will come up. https://StevenNdegwa.github.io/portfolio
 ## Known Bugs
 There are no known bugs.
 ## Technologies Used
