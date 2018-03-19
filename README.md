@@ -6,6 +6,14 @@
 ## Description
 This is a portfolio of all the projects i have done as software developer. These include stevepage, my-first-website and giraffes. The links to the projects are on the page.
 ## Setup/Installation Requirements
+Create a folder called Portfolio
+Inside the portfolio folder, create css folder and html file
+Initialize git
+load atom
+create and edit the html file on atom.
+git add and commit every change to the html file
+git push every change
+add style to the html file using css
 Type the https name into your browser and the page will come up. https://StevenNdegwa.github.io/portfolio
 ## Known Bugs
 There are no known bugs.
